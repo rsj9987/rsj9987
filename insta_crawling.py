@@ -6,7 +6,7 @@ import unicodedata
 import time
 
 
-driver = webdriver.Chrome(executable_path='C:/Users/나승주/Desktop/python_basic/chromedriver/chromedriver')
+driver = webdriver.Chrome(executable_path='chromedriver_path')
 # 웹 접속
 def web_load(url):
     driver.get(url)
