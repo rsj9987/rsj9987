@@ -1,8 +1,5 @@
 - 👋 Hi, I’m Seung Joo Ra
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in every learning
 
 <!---
 rsj9987/rsj9987 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
