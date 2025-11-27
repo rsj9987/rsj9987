@@ -11,7 +11,7 @@
 
 
 #  Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seung Joo Ra">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsj9987">
 
 <div><h1>🍏  GitHub Stats </h1></div>
-<img src="https://github-readme-stats.vercel.app/api?username=Seung Joo Ra&theme=vue&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=rsj9987&theme=vue&show_icons=true">
